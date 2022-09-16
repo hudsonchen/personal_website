@@ -1,0 +1,17 @@
+[submodule "hudsonchen/themes/book"]
+	path = hudsonchen/themes/book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "hudsonchen/hudsonchen.github.io"]
+	path = hudsonchen/hudsonchen.github.io
+	url = https://github.com/hudsonchen/hudsonchen.github.io.git
+	branch = main
+[submodule "hudsonchen/public"]
+	path = hudsonchen/public
+	url = https://github.com/hudsonchen/hudsonchen.github.io.git
+	branch = main
+[submodule "hudsonchen/themes/hugo-book"]
+	path = hudsonchen/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "hudsonchen/themes/mainroad"]
+	path = hudsonchen/themes/mainroad
+	url = https://github.com/vimux/mainroad
