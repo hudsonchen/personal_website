@@ -48,7 +48,7 @@ My research interests center around probabilistic modelling and causal inference
 
 <div style="text-align: justify">
 Prior to my PhD, I obtained my bachelor's degree from the department of Electronic Engineering, Tsinghua Universisty. 
-I have worked as a research assistant at <a href="https://oatml.cs.ox.ac.uk/">Oxford Applied and Theoretical Machine Learning Group (OATML)</a>, advised by <a href="https://timrudner.com/">Tim Rudner</a> and <a href="http://www.cs.ox.ac.uk/people/yarin.gal/website/">Yarin Gal</a>. 
+I have worked as a research assistant at <a href="https://oatml.cs.ox.ac.uk/">Oxford Applied and Theoretical Machine Learning Group (OATML)</a>, advised by <a href="https://timrudner.com/">Tim G. J. Rudner</a> and <a href="http://www.cs.ox.ac.uk/people/yarin.gal/website/">Yarin Gal</a>. 
 I have also worked as a research assistant at <a href="https://statml.hkust.edu.hk/">Statistics and Machine Learning group</a> at the Hong Kong University of Science and Technology (HKUST), 
 advised by <a href="http://tongzhang-ml.org/">Tong Zhang</a>. 
 </div>
