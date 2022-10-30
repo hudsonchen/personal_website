@@ -2,8 +2,8 @@
 title: Zonghao (Hudson) Chen
 draft: false
 avatar: photos/personal_photo_2.png
-role: Undergrad, Tsinghua University
-bio: czh17@mails.tsinghua.edu.cn
+role: Ph.D. candidate, University College London
+bio: zonghao.chen.22@ucl.ac.uk
 social:
   - icon: envelope
     iconPack: fas
@@ -70,7 +70,7 @@ Xiao Zhou*, Weizhong Zhang*, <strong>Zonghao Chen</strong>, Shizhe Diao, Tong Zh
 <li>A Neural Tangent Kernel Perspective on Function-Space Regularization in Neural Networks <br>
 <strong>Zonghao Chen*</strong>, Xupeng Shi*, Tim G. J. Rudner, Qixuan Feng, Weizhong Zhang, Tong Zhang <br>
 <i> Preprint. 2021 </i> <br>
-<a href="papers/Chen2022_A_Neural_Tangent_Kernel_Perspective_on_Function_Space_Regularization_in_Neural_Networks.pdf">Paper</a> </li>
+<a href="papers/Chen2022_A_Neural_Tangent_Kernel_Perspective_on_Function-Space_Regularization_in_Neural_Networks.pdf">Paper</a> </li>
 <br>
 </ul>
 
