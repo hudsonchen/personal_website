@@ -60,7 +60,8 @@ advised by <a href="http://tongzhang-ml.org/">Tong Zhang</a>.
 <li>Conditional Bayesian Quadrature <br>
 <strong>Zonghao Chen</strong>, Masha Naslidnyk, Arthur Gretton, François-Xavier Briol <br>
 <i> Preprint 2023. </i> <br>
-<a href="papers/CBQ.pdf">Paper</a> </li>
+
+[comment]: <> (<a href="papers/CBQ.pdf">Paper</a> </li>)
 <br>
 <li>Tractable Function-Space Variational Inference in Bayesian Neural Networks <br>
 Tim G. J. Rudner, <strong>Zonghao Chen</strong>, Yee Whye Teh, Yarin Gal <br>
