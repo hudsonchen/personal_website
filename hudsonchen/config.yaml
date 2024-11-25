@@ -7,6 +7,12 @@ theme: hugo-eureka
 # theme: wangchucheng.com/hugo-eureka
 # If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
 
+menu:
+  main:
+    - name: "Talks"
+      url: "/talks/"
+      weight: 1
+
 paginate: 1
 copyright: >
   &copy; 2022 WANG Chucheng
