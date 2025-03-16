@@ -64,7 +64,14 @@ I organize the <a href="https://ucl-ellis.github.io/jt_csml_seminar_home/">JumpT
 [comment]: <> (My CV can be downloaded from this <a href="papers/Zonghao_Chen.pdf">link</a>.)
 ## Conference Publications and Preprints  
 
+<li>Nested Expectations with Kernel Quadrature<br>
+<strong>Zonghao Chen</strong>, Masha Naslidnyk, François-Xavier Briol <br>
+<i> Preprint </i> <br>
+<a href="https://arxiv.org/pdf/2502.18284">Paper</a>, <a href="https://github.com/hudsonchen/nest_kq">Code</a>,
+<a href="papers/nkq_poster.pdf">Poster</a>
+</li>
 
+<br>
 <li>Conditional Bayesian Quadrature <br>
 <strong>Zonghao Chen</strong>*, Masha Naslidnyk*, Arthur Gretton, François-Xavier Briol <br>
 <i> UAI '24 Conference on Uncertainty in Artificial Intelligence </i> <br>
