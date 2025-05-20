@@ -1,7 +1,7 @@
 ---
 title: Zonghao (Hudson) Chen
 draft: false
-avatar: photos/personal_photo_2.png
+avatar: photos/personal_image.JPEG
 role: Ph.D. candidate, University College London
 bio: zonghao.chen.22@ucl.ac.uk
 social:
@@ -44,7 +44,7 @@ widget:
 <div style="text-align: justify">
 I am a Ph.D. candidate at the <a href="https://www.ucl.ac.uk/foundational-ai-cdt/foundational-artificial-intelligence-mphilphd">Center of Foundational Artificial Intelligence</a> of University College London, supervised by 
 <a href="https://fxbriol.github.io/">François-Xavier Briol</a>  and <a href="https://www.gatsby.ucl.ac.uk/~gretton/">Arthur Gretton</a>. 
-My research interests center around Wasserstein gradient flows, numerical integration and causal inference. Prior to my PhD, I obtained my bachelor's degree from the department of Electronic Engineering, Tsinghua University.
+I am interested in kernel methods with application to generative models, numerical integration and causal inference. Prior to my PhD, I obtained my bachelor's degree from the department of Electronic Engineering, Tsinghua University, 2022.
 </div>
 
 <div style="text-align: justify">
@@ -66,7 +66,7 @@ I organize the <a href="https://ucl-ellis.github.io/jt_csml_seminar_home/">JumpT
 
 <li>Nested Expectations with Kernel Quadrature<br>
 <strong>Zonghao Chen</strong>, Masha Naslidnyk, François-Xavier Briol <br>
-<i> Preprint </i> <br>
+<i> ICML '25 International Conference on Machine Learning </i> <br>
 <a href="https://arxiv.org/pdf/2502.18284">Paper</a>, <a href="https://github.com/hudsonchen/nest_kq">Code</a>,
 <a href="papers/nkq_poster.pdf">Poster</a>
 </li>
