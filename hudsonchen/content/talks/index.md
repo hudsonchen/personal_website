@@ -19,3 +19,10 @@ showDate: false
 
 <li>23rd May 2025, Tsinghua University, Department of Statistic and Data Science (Beijing, China). <a href="../papers/NPIVO_slides.pdf">Slides</a>
 </li>
+
+<li>31st July 2025, Institute of Statistical Mathematics, (Tokyo, Japan). <a href="../papers/DrMMD_slides.pdf">Slides</a>
+</li>
+
+<li>7th Aug 2025, <a href="https://c2sml.cn/conference_en.html"> The China conference on Scientific Machine Learning</a> 
+ (Beijing, China). <a href="../papers/DrMMD_slides.pdf">Slides</a>
+</li>

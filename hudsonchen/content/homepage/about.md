@@ -74,7 +74,9 @@ I organize the <a href="https://ucl-ellis.github.io/jt_csml_seminar_home/">JumpT
 <strong>Zonghao Chen</strong>, Aratrika Mustafi, Pierre Glaser, Anna Korba, Arthur Gretton, Bharath K. Sriperumbudur <br>
 <i> Preprint </i> <br>
 <a href="https://arxiv.org/pdf/2409.14980">Paper</a>,
-<a href="https://github.com/hudsonchen/DrMMD">Code</a> </li>
+<a href="https://github.com/hudsonchen/DrMMD">Code</a>, 
+<a href="papers/chi2flow_poster.pdf">Poster</a> 
+</li>
 
 
 [comment]: <> (My CV can be downloaded from this <a href="papers/Zonghao_Chen.pdf">link</a>.)
