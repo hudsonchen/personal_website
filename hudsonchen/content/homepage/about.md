@@ -72,7 +72,7 @@ I organize the <a href="https://ucl-ellis.github.io/jt_csml_seminar_home/">JumpT
 
 <li>(De)-regularized Maximum Mean Discrepancy Gradient Flow <br>
 <strong>Zonghao Chen</strong>, Aratrika Mustafi, Pierre Glaser, Anna Korba, Arthur Gretton, Bharath K. Sriperumbudur <br>
-<i> Preprint </i> <br>
+<i> JMLR '25 Journal of Machine Learning Research</i> <br>
 <a href="https://arxiv.org/pdf/2409.14980">Paper</a>,
 <a href="https://github.com/hudsonchen/DrMMD">Code</a>, 
 <a href="papers/chi2flow_poster.pdf">Poster</a> 
