@@ -26,3 +26,11 @@ showDate: false
 <li>7th Aug 2025, <a href="https://c2sml.cn/conference_en.html"> The China conference on Scientific Machine Learning</a> 
  (Beijing, China). <a href="../papers/DrMMD_slides.pdf">Slides</a>
 </li>
+
+<li>22nd Oct 2025, <a href="https://sites.google.com/view/kernels-flows-and-sampling/home"> Workshop on kernels, flows and sampling</a> 
+ (Newcastle, UK). <a href="../papers/NPIV_DNN.pdf">Slides</a>
+</li>
+
+<li>30th Oct 2025, <a href="https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/department-information/statistical-science-seminars"> UCL Statistical Science Seminars </a> 
+ (London, UK). <a href="../papers/NPIV_DNN.pdf">Slides</a>
+</li>
