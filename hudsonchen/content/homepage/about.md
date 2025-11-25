@@ -44,7 +44,7 @@ widget:
 <div style="text-align: justify">
 I am a Ph.D. candidate at the <a href="https://www.ucl.ac.uk/foundational-ai-cdt/foundational-artificial-intelligence-mphilphd">Center of Foundational Artificial Intelligence</a> of University College London, supervised by 
 <a href="https://fxbriol.github.io/">François-Xavier Briol</a>  and <a href="https://www.gatsby.ucl.ac.uk/~gretton/">Arthur Gretton</a>. 
-I am interested in kernel methods with application to generative models, numerical integration and causal inference. Prior to my PhD, I obtained my bachelor's degree from the department of Electronic Engineering, Tsinghua University, 2022.
+I am interested in understanding machine learning algorithms through the dual lenses of optimization and generalization. My current research focuses on generative models, Monte Carlo methods, and causal inference. Prior to my PhD, I obtained my bachelor's degree from the department of Electronic Engineering, Tsinghua University, 2022.
 </div>
 
 <div style="text-align: justify">
@@ -56,14 +56,14 @@ I organize the <a href="https://ucl-ellis.github.io/jt_csml_seminar_home/">JumpT
 <div style="display: flex; justify-content: space-between; gap: 2em;">
 
 <div style="flex: 1;">
-  June 2025 <br><br>
+  November 2025 <br><br><br><br><br><br>
+  June 2025 <br>
   <br>
-  May 2025
 </div>
 
 <div style="flex: 3;">
-  I will visit <a href="https://ibis.t.u-tokyo.ac.jp/suzuki/">Taiji Suzuki</a> at RIKEN AIP and University of Tokyo from June 2025 to August 2025. <br><br>
-  New paper: MMD gradient flow can generate samples with `super-convergence' cubature rate. The first discrete-time finite-particle convergence result for MMD gradient flow.
+  Two new journal papers on nonparametric instrumental variables (NPIV) just came out! 🎉 One <a href="https://arxiv.org/pdf/2511.14710">Paper</a> studies convergence guarantees under neural network representations, and the other <a href="https://arxiv.org/pdf/2511.19404">Paper</a> establishes sharp statistical rates for kernel-based estimators.  <br><br>
+  I will visit <a href="https://ibis.t.u-tokyo.ac.jp/suzuki/">Taiji Suzuki</a> at RIKEN AIP and University of Tokyo from June 2025 to August 2025. <br>
 </div>
 
 </div>
@@ -77,9 +77,22 @@ I organize the <a href="https://ucl-ellis.github.io/jt_csml_seminar_home/">JumpT
 <a href="https://github.com/hudsonchen/DrMMD">Code</a>, 
 <a href="papers/chi2flow_poster.pdf">Poster</a> 
 </li>
+<br>
 
+<li>Towards a Unified Analysis of Neural Networks in Nonparametric Instrumental Variable Regression: Optimization and Generalization <br>
+<strong>Zonghao Chen</strong>, Atsushi Nitanda, Arthur Gretton, Taiji Suzuki <br>
+<i> Preprint </i> <br>
+<a href="https://arxiv.org/pdf/2511.14710">Paper</a>,
+<a href="https://github.com/hudsonchen/F2BMLD">Code</a>, 
+</li>
 
-[comment]: <> (My CV can be downloaded from this <a href="papers/Zonghao_Chen.pdf">link</a>.)
+<br>
+<li>Nonparametric Instrumental Variable Regression with Observed Covariates<br>
+Zikai Shen*, <strong>Zonghao Chen*</strong>, Dimitri Meunier, Ingo Steinwart, Arthur Gretton&dagger;, Zhu Li&dagger; <br>
+<i> Preprint </i> <br>
+<a href="https://arxiv.org/pdf/2511.19404">Paper</a>
+</li>
+
 ## Conference Publications and Preprints  
 
 <li>Stationary MMD Points for Cubature<br>
