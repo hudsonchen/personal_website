@@ -94,6 +94,13 @@ Zikai Shen*, <strong>Zonghao Chen*</strong>, Dimitri Meunier, Ingo Steinwart, Ar
 </li>
 
 ## Conference Publications and Preprints  
+<li> BayesSum: Bayesian Quadrature in Discrete Spaces<br>
+Sophia Seulkee Kang, François-Xavier Briol, Toni Karvonen, <strong>Zonghao Chen</strong> <br>
+<i> Preprint </i> <br>
+<a href="https://arxiv.org/pdf/2512.16105">Paper</a>, <a href="https://github.com/seulkang0518/BayesSum">Code</a>
+</li>
+<br>
+
 
 <li>Stationary MMD Points for Cubature<br>
 <strong>Zonghao Chen</strong>, Toni Karvonen, Heishiro Kanagawa, François-Xavier Briol, Chris. J. Oates <br>

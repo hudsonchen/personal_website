@@ -28,9 +28,18 @@ showDate: false
 </li>
 
 <li>22nd Oct 2025, <a href="https://sites.google.com/view/kernels-flows-and-sampling/home"> Workshop on kernels, flows and sampling</a> 
- (Newcastle, UK). <a href="../papers/NPIV_DNN.pdf">Slides</a>
+ (Newcastle, UK). <a href="../papers/NPIV_DNN_slides.pdf">Slides</a>
 </li>
 
 <li>30th Oct 2025, <a href="https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/department-information/statistical-science-seminars"> UCL Statistical Science Seminars </a> 
- (London, UK). <a href="../papers/NPIV_DNN.pdf">Slides</a>
+ (London, UK). <a href="../papers/NPIV_DNN_slides.pdf">Slides</a>
+</li>
+
+<li>14th Dec 2025, Shanghai University of Finance and Economics, Department of Statistic and Data Science (Shanghai, China). <a href="../papers/NPIV_DNN_slides.pdf">Slides</a>
+</li>
+
+<li>15th Dec 2025, Tsinghua University, Department of Statistic and Data Science (Beijing, China). <a href="../papers/NPIVO_slides.pdf">Slides</a>
+</li>
+
+<li>22nd Dec 2025, Fudan University, Department of Mathematics (Shanghai, China). <a href="../papers/NPIVO_slides.pdf">Slides</a>
 </li>
