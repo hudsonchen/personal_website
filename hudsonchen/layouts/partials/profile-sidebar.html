@@ -1,0 +1,54 @@
+{{ $homepage := .Site.GetPage "homepage" }}
+{{ $about := "" }}
+{{ with $homepage }}
+  {{ $about = .Resources.GetMatch "about.md" }}
+{{ end }}
+{{ $name := .Site.Title }}
+{{ $avatar := "" }}
+{{ $avatarURL := "" }}
+{{ $role := "" }}
+{{ $bio := "" }}
+{{ $aboutMe := "" }}
+{{ $social := slice }}
+
+{{ with $about }}
+  {{ with .Title }}{{ $name = . }}{{ end }}
+  {{ with .Params.avatar }}{{ $avatar = . }}{{ end }}
+  {{ with $avatar }}{{ $avatarURL = partial "utils/get-image" (dict "context" $about "url" .) }}{{ end }}
+  {{ with .Params.role }}{{ $role = . }}{{ end }}
+  {{ with .Params.bio }}{{ $bio = . }}{{ end }}
+  {{ with .Params.social }}{{ $social = . }}{{ end }}
+{{ end }}
+
+<aside class="profile-sidebar pl-scrollbar">
+  <div class="profile-sidebar-inner">
+    <div class="profile-sidebar-card bg-primary-bg rounded p-5">
+      {{ with $avatarURL }}
+      <img src="{{ . }}" alt="{{ $name }}" class="profile-avatar" />
+      {{ end }}
+      <h2 class="text-xl font-bold text-primary-text text-center mt-4">{{ $name }}</h2>
+      {{ with $role }}
+      <p class="text-primary-text text-center mt-2">{{ . }}</p>
+      {{ end }}
+      {{ with $bio }}
+      <p class="text-secondary-text text-center mt-3 break-words">{{ . }}</p>
+      {{ end }}
+      {{ with $social }}
+      {{ range . }}
+      {{ if hasPrefix .url "https://scholar.google.com/" }}
+      <div class="text-center mt-4">
+        <a href="{{ .url | safeURL }}" class="text-eureka hover:text-eureka underline" aria-label="google-scholar" target="_blank" rel="noopener noreferrer">
+          Google Scholar
+        </a>
+      </div>
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      {{ with $aboutMe }}
+      <div class="text-primary-text text-sm mt-4">
+        <p>{{ . }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</aside>

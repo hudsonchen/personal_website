@@ -1,0 +1,37 @@
+{{- $paginator := .Paginate .Pages }}
+{{- $pages := .Paginator.Pages }}
+{{- if eq .Type "authors" }}
+{{- $pages = .Pages }}
+{{- end }}
+{{- with $pages }}
+<script type="application/ld+json">
+{
+    "@context":"https://schema.org",
+    "@type":"ItemList",
+    "itemListElement":[
+        {{- range $index, $value := . -}}
+        {{- if gt $index 0 -}},{{- end -}}
+        {{- $description := "" -}}
+        {{- if .Description -}}
+          {{- $description = .Description -}}
+        {{- else if .Summary -}}
+          {{- $description = .Summary -}}
+        {{- else if .Site.Params.Description -}}
+          {{- $description = .Site.Params.Description -}}
+        {{- end -}}
+        {
+            "@type":"ListItem",
+            "position": {{ add $index 1 }},
+            "name": {{ .Title }},
+            "description": {{ $description }},
+            {{- $img := partial "utils/get-image" (dict "context" . "url" .Params.featuredImage "keyword" "*featured*") }}
+            {{- with $img }}
+            "image": {{ . }},
+            {{- end }}
+            "url": {{ .Permalink }}
+        }
+        {{- end }}
+    ]
+}
+</script>
+{{- end }}
