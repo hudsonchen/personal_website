@@ -26,7 +26,7 @@
       {{ with $avatarURL }}
       <img src="{{ . }}" alt="{{ $name }}" class="profile-avatar" />
       {{ end }}
-      <h2 class="text-xl font-bold text-primary-text text-center mt-4">{{ $name }}</h2>
+      <h2 class="text-lg font-bold text-primary-text text-center mt-4 whitespace-nowrap">{{ $name }}</h2>
       {{ with $role }}
       <p class="text-primary-text text-center mt-2">{{ . }}</p>
       {{ end }}
