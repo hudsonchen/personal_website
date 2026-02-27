@@ -1,7 +1,7 @@
 ---
 title: Zonghao (Hudson) Chen
 draft: false
-avatar: photos/personal_image.JPEG
+avatar: photos/personal_photo_3.png
 role: Ph.D. candidate, University College London
 bio: zonghao.chen.22@ucl.ac.uk
 social:
