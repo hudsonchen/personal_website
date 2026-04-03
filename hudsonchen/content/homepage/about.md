@@ -56,29 +56,30 @@ I organize the <a href="https://ucl-ellis.github.io/jt_csml_seminar_home/">JumpT
 </div>
 
 ## Recent News
-<div style="display: flex; justify-content: space-between; gap: 2em;">
+<div style="max-width: 860px;">
+  <ul style="list-style: none; padding-left: 0; margin: 0;">
+    <li style="margin-bottom: 0.9em; padding-left: 0;">
+      <strong>📌 April 2026</strong>: I am co-organising UCL <a href="https://imss2026.github.io/">IMSS Annual Lecture on Computational Statistics and Machine Learning</a>. This will be followed by <a href="https://fsml-ucl.github.io/CSMLworkshop2026/">London Meeting on Computational Statistics</a>.
+    </li>
+  </ul>
 
-<div style="flex: 3; text-align: justify;">
-  <div style="margin-bottom: 0.9em;">
-    <strong>📌 April 2026</strong>: I am co-organising UCL <a href="https://imss2026.github.io/">IMSS Annual Lecture on Computational Statistics and Machine Learning</a>. 
-    This will be followed by <a href="https://fsml-ucl.github.io/CSMLworkshop2026/">London Meeting on Computational Statistics</a>.
-  </div>
-  <div style="margin-bottom: 0.9em;">
-    <strong>📌 March 2026</strong>: Research visit to <a href="https://www.weijie-su.com/">Weijie Su</a> at the University of Pennsylvania.
-  </div>
-  <div style="margin-bottom: 0.9em;">
-    <strong>📌 March 2026</strong>: Research visit to <a href="https://www.cs.cmu.edu/~pradeepr/">Pradeep Ravikumar</a> at the Carnegie Mellon University.
-  </div>
-  <div style="margin-bottom: 0.9em;">
-    <strong>📌 March 2026</strong>: I am serving as Area Chair for the <a href="https://delta-workshop.github.io/DeLTa2026/"> ICLR 2026 Delta Workshop</a>.
-  </div>
   <details style="margin-top: 0.75em; padding: 0.8em 1em; border: 1px solid currentColor; border-radius: 10px; background: transparent; opacity: 0.9;">
     <summary style="cursor: pointer; font-weight: 600;">Older news</summary>
-    <div style="margin-top: 0.75em;">
-      <strong>📌 November 2025</strong>: Two new papers on nonparametric instrumental variables (NPIV)! 🎉 One <a href="https://arxiv.org/pdf/2511.14710">Paper</a> studies convergence guarantees under neural network representations, and the other <a href="https://arxiv.org/pdf/2511.19404">Paper</a> establishes sharp statistical rates for kernel-based estimators.
-    </div>
+    <ul style="list-style: none; padding-left: 0; margin: 0.75em 0 0 0;">
+      <li style="margin-bottom: 0.85em;">
+        <strong>📌 March 2026</strong>: Research visit to <a href="https://www.weijie-su.com/">Weijie Su</a> at the University of Pennsylvania.
+      </li>
+      <li style="margin-bottom: 0.85em;">
+        <strong>📌 March 2026</strong>: Research visit to <a href="https://www.cs.cmu.edu/~pradeepr/">Pradeep Ravikumar</a> at Carnegie Mellon University.
+      </li>
+      <li style="margin-bottom: 0.85em;">
+        <strong>📌 March 2026</strong>: I am serving as Area Chair for the <a href="https://delta-workshop.github.io/DeLTa2026/">ICLR 2026 Delta Workshop</a>.
+      </li>
+      <li style="margin-bottom: 0;">
+        <strong>📌 November 2025</strong>: Two new papers on nonparametric instrumental variables (NPIV)! 🎉 One <a href="https://arxiv.org/pdf/2511.14710">paper</a> studies convergence guarantees under neural network representations, and the other <a href="https://arxiv.org/pdf/2511.19404">paper</a> establishes sharp statistical rates for kernel-based estimators.
+      </li>
+    </ul>
   </details>
-</div>
 </div>
 
 ## Selected Publications and Preprints
