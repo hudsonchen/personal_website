@@ -101,7 +101,7 @@ I organize the <a href="https://ucl-ellis.github.io/jt_csml_seminar_home/">JumpT
   <div><strong>(De)-regularized Maximum Mean Discrepancy Gradient Flow</strong></div>
   <div><strong><u>Zonghao Chen</u></strong>, Aratrika Mustafi, Pierre Glaser, Anna Korba, Arthur Gretton, Bharath K. Sriperumbudur</div>
   <div><i>JMLR '25 Journal of Machine Learning Research</i></div>
-  <div><a href="https://arxiv.org/pdf/2409.14980">Paper</a> | <a href="https://github.com/hudsonchen/DrMMD">Code</a> | <a href="papers/chi2flow_poster.pdf">Poster</a></div>
+  <div><a href="https://arxiv.org/pdf/2409.14980">Paper</a> | <a href="https://github.com/hudsonchen/DrMMD">Code</a> | <a href="posters/chi2flow_poster.pdf">Poster</a></div>
 </li>
 
 <li style="margin-bottom: 1.4em; padding-left: 0.25em;">
@@ -129,7 +129,7 @@ I organize the <a href="https://ucl-ellis.github.io/jt_csml_seminar_home/">JumpT
   <div><strong>Nested Expectations with Kernel Quadrature</strong></div>
   <div><strong><u>Zonghao Chen</u></strong>, Masha Naslidnyk, François-Xavier Briol</div>
   <div><i>ICML '25 International Conference on Machine Learning</i></div>
-  <div><a href="https://arxiv.org/pdf/2502.18284">Paper</a> | <a href="https://github.com/hudsonchen/nest_kq">Code</a> | <a href="papers/nkq_poster.pdf">Poster</a></div>
+  <div><a href="https://arxiv.org/pdf/2502.18284">Paper</a> | <a href="https://github.com/hudsonchen/nest_kq">Code</a> | <a href="posters/nkq_poster.pdf">Poster</a></div>
 </li>
 </ol>
 
