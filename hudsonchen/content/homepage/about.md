@@ -52,10 +52,6 @@ I am interested in machine learning algorithms that are theoretically grounded a
 My current research focuses on generative models, Monte Carlo methods, and causal inference. Prior to my PhD, I obtained my bachelor's degree from the department of Electronic Engineering, Tsinghua University, 2022.
 </div>
 
-<div style="text-align: justify">
-I organize the <a href="https://ucl-ellis.github.io/jt_csml_seminar_home/">JumpTrading/ELLIS CSML seminar series</a> on Computational Statistics and Machine Learning for the 
-<a href="https://ucl-ellis.github.io/#page-top">UCL ELLIS Unit</a>. Feel free to drop me an email if you would like to give a talk!
-</div>
 
 ## Recent News
 <div style="max-width: 860px;">
