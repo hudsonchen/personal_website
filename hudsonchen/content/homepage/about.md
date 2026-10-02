@@ -45,10 +45,11 @@ widget:
 
 ## About me
 <div style="text-align: justify">
-I am a Ph.D. candidate at the <a href="https://www.ucl.ac.uk/foundational-ai-cdt/foundational-artificial-intelligence-mphilphd">Center of Foundational Artificial Intelligence</a> of University College London, supervised by 
+I am now a postdoctoral researcher at the University of Pennsylvania under the supervision of <a href="https://www.weijie-su.com/">Weijie Su</a> and <a href="https://www.med.upenn.edu/long-lab/">Qi Long</a>. 
+Prior to this, I obtained my Ph.D. in 2026 at the <a href="https://www.ucl.ac.uk/foundational-ai-cdt/foundational-artificial-intelligence-mphilphd">Center of Foundational Artificial Intelligence</a> of University College London, supervised by 
 <a href="https://fxbriol.github.io/">François-Xavier Briol</a>  and <a href="https://www.gatsby.ucl.ac.uk/~gretton/">Arthur Gretton</a>. 
-After my PhD, I will be a postdoctoral researcher at the University of Pennsylvania under the supervision of <a href="https://www.weijie-su.com/">Weijie Su</a> and <a href="https://www.med.upenn.edu/long-lab/">Qi Long</a>.
-I am interested in understanding machine learning algorithms through the dual lenses of optimization and generalization. My current research focuses on generative models, Monte Carlo methods, and causal inference. Prior to my PhD, I obtained my bachelor's degree from the department of Electronic Engineering, Tsinghua University, 2022.
+I am interested in machine learning algorithms that are theoretically grounded and practically relevant.
+My current research focuses on generative models, Monte Carlo methods, and causal inference. Prior to my PhD, I obtained my bachelor's degree from the department of Electronic Engineering, Tsinghua University, 2022.
 </div>
 
 <div style="text-align: justify">
